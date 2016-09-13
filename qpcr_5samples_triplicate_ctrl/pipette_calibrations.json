@@ -1,0 +1,117 @@
+{
+    "a": {
+        "blowout": 16.5,
+        "bottom": 14.5,
+        "droptip": 24,
+        "resting": 0,
+        "theContainers": {
+            "PCR_tubes": {
+                "rel_x": -90.518,
+                "rel_y": -131.497,
+                "rel_z": 28.5,
+                "x": 63.989,
+                "y": 96.503,
+                "z": 161.499
+            },
+            "p10_rack": {
+                "rel_x": 0.0,
+                "rel_y": 0.0,
+                "rel_z": 0.0,
+                "x": 154.507,
+                "y": 228.0,
+                "z": 132.999
+            },
+            "p200_rack": {
+                "rel_x": null,
+                "rel_y": null,
+                "rel_z": null,
+                "x": null,
+                "y": null,
+                "z": null
+            },
+            "trash": {
+                "x": 120,
+                "y": 190,
+                "z": 100
+            },
+            "tube_rack_750ul": {
+                "rel_x": 1.6920000000000073,
+                "rel_y": 133.59699999999998,
+                "rel_z": 11.0,
+                "x": 156.199,
+                "y": 361.597,
+                "z": 143.999
+            }
+        },
+        "tip_rack_origin": "p10_rack",
+        "tip_racks": [
+            {
+                "container": "p10_rack"
+            }
+        ],
+        "top": 2.5,
+        "trash_container": {
+            "container": "trash"
+        },
+        "volume": 10
+    },
+    "b": {
+        "blowout": 17.5,
+        "bottom": 16.0,
+        "droptip": 23.5,
+        "resting": 0,
+        "theContainers": {
+            "PCR_tubes": {
+                "rel_x": 91.489,
+                "rel_y": -264.993,
+                "rel_z": -9.0,
+                "x": 116.994,
+                "y": 94.503,
+                "z": 141.0
+            },
+            "p10_rack": {
+                "rel_x": null,
+                "rel_y": null,
+                "rel_z": null,
+                "x": null,
+                "y": null,
+                "z": null
+            },
+            "p200_rack": {
+                "rel_x": 0.0,
+                "rel_y": 0.0,
+                "rel_z": 0.0,
+                "x": 25.505,
+                "y": 359.496,
+                "z": 150.0
+            },
+            "trash": {
+                "rel_x": 120.00000000000001,
+                "rel_y": -173.49599999999998,
+                "rel_z": -96.0,
+                "x": 145.997,
+                "y": 184.0,
+                "z": 94.0
+            },
+            "tube_rack_750ul": {
+                "rel_x": 183.695,
+                "rel_y": 0.10400000000004184,
+                "rel_z": -34.001000000000005,
+                "x": 209.2,
+                "y": 359.6,
+                "z": 115.999
+            }
+        },
+        "tip_rack_origin": "p200_rack",
+        "tip_racks": [
+            {
+                "container": "p200_rack"
+            }
+        ],
+        "top": 4.5,
+        "trash_container": {
+            "container": "trash"
+        },
+        "volume": 200
+    }
+}
