@@ -2,7 +2,9 @@
 
 This is a repo for Genspace's usage of the OpenTron. See the Wiki for guides.
 
-With the Mac app, the Opentron saves calibration files in its app data: `/Users/\<username\>/Library/Application Support/OT One App/otone\_data`
+With the Mac app, the Opentron saves calibration files in its app data:
+
+`/Users/\<username\>/Library/Application Support/OT One App/otone\_data`
 
 Current instructions to use the OpenTron:
 
